@@ -11,6 +11,7 @@
 - [@dl-alexandre](https://github.com/dl-alexandre)
 - [@Gobbledegookie](https://github.com/Gobbledegookie)
 - [@imatrixcz](https://github.com/imatrixcz)
+- [@joshuaswarren](https://github.com/joshuaswarren)
 - [@lacion](https://github.com/lacion)
 - [@m9tdev](https://github.com/m9tdev)
 - [@marcostorto](https://github.com/marcostorto)
